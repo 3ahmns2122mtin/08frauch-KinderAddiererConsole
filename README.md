@@ -9,16 +9,19 @@ Windows 11, Unity 2020.1.18f1, Visual Studios (Version 2019 Community)
 Zielplattform:
 WebGL Referenzauflösung (960x600)
 
-Visuelle Einblicke in das Projekt:
-![Bild1_Kinderaddierer](https://user-images.githubusercontent.com/90834237/152299581-6c8a51cd-c506-4c2f-a996-126bda85fb7e.JPG)
+WebGL Link:
+https://3ahmns2122mtin.github.io/08frauch-KinderAddiererConsole/
 
-![Bild2_Kinderaddierer](https://user-images.githubusercontent.com/90834237/152299590-f5f5f3d9-838d-4660-89cf-4d9dde6ac3c9.JPG)
+Visuelle Einblicke in das Projekt:
+![Bild1_Kinderaddierer](https://user-images.githubusercontent.com/90834237/152304005-ea148590-2599-4e28-b935-d3ef3f22e513.JPG)
+![Bild2_Kinderaddierer](https://user-images.githubusercontent.com/90834237/152304013-f7fb1309-64f9-4aa7-af8f-0824e079117c.JPG)
 
 Notwendiges für die Ausführung:
 Unity 2020.1.18f1
 
 Drittmaterial:
-/
+- Bild -> Kotz mid da Glotz Bild
+- Musik -> Die kleine Brücke von Helfenberg - Rudy Pfann
 
 Anforderungsliste:
 - [x] Ein funktionierender Addierer zweier Zahlen
@@ -40,4 +43,4 @@ Lessons Learned:
 - Versionskontrolle
 - push/pull mit Git
 
-Copyright by FRauch
+Copyright by FRauch :)
