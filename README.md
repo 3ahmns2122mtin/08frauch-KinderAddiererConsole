@@ -28,12 +28,12 @@ Limitationen:
 --
 
 Lessons Learned:
- Wie addiere ich im script
- Verwendung von Buttons
- Reset mit Button Press
- Abfrage ob Input richtig ist
- InputFields aus script ändern
- Zugriff auf Kind Objekte
- Interaktivität En/Disable
- Versionskontrolle
- push/pull mit Git
+- Wie addiere ich im script
+- Verwendung von Buttons
+- Reset mit Button Press
+- Abfrage ob Input richtig ist
+- InputFields aus script ändern
+- Zugriff auf Kind Objekte
+- Interaktivität En/Disable
+- Versionskontrolle
+- push/pull mit Git
