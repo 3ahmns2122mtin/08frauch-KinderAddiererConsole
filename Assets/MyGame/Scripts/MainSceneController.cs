@@ -7,10 +7,12 @@ public class MainSceneController : MonoBehaviour
     [SerializeField] private Text txtResult;
     [SerializeField] private GameObject resetBtn;
     private int termA, termB;
+    public bool testing;
 
     public int CheckAddition(int summandA, int summandB)
     {
         int result = 0;
+        testing = false;
 
         result = summandA + summandB;
 
@@ -35,6 +37,8 @@ public class MainSceneController : MonoBehaviour
 
         termA = 0;
         termB = 0;
+
+
     }
 
 }
